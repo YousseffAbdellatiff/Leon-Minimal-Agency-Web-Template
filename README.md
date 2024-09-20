@@ -32,5 +32,5 @@
 
 ## Live Demo
 
-You can view the live version of the project [here][(https://yourusername.github.io/Leon-Minimal-Agency-Web-Template/).](https://yousseffabdellatiff.github.io/Leon-Minimal-Agency-Web-Template/)
+You can view the live version of the project [here](https://yourusername.github.io/Leon-Minimal-Agency-Web-Template/).](https://yousseffabdellatiff.github.io/Leon-Minimal-Agency-Web-Template/)
 
